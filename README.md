@@ -33,7 +33,7 @@ The tf2-yolov4 package includes convert-darknet-weights command which allows to 
 ## Compile and Running
 ### CNN
 1. Buka folder TUGAS-4-IF4073-VEHICLE-RECOGNITION
-2. Jalankan pada terminal `python gui.py`
+2. Jalankan pada terminal `python main.py`
 3. Aplikasi siap digunakan
 ### Non-CNN
 1. Jalankan aplikasi `vehiclerecognitionapp.mlapp`
